@@ -1,4 +1,4 @@
-# Finance Management
+# HR Management
 
 A test repository
 
